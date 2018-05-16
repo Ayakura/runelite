@@ -1,6 +1,8 @@
 ![](https://runelite.net/img/logo.png)
 # runelite [![Travis](https://img.shields.io/travis/runelite/runelite.svg)](https://travis-ci.org/runelite/runelite) [![Discord](https://img.shields.io/discord/301497432909414422.svg)](https://discord.gg/mePCs8U)
 
+5/15/2018: With the announcement of MMK's intention to remove Runelite, I've decided to fork the main branch of Runelite in order to preserve what's necessary
+
 runelite is a RuneScape 2 client and reverse engineering project
 
 If you have any questions, please join our IRC channel on [irc.rizon.net #runelite](http://qchat.rizon.net/?channels=runelite&uio=d4) or alternatively our [Discord](https://discord.gg/mePCs8U) server.
